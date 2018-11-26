@@ -20,16 +20,14 @@ avatar: https://avatars1.githubusercontent.com/u/8898339?s=400&u=651dd26447dff60
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Blog
-    url: /
   - name: About
     url: /about
   - name: Archive
     url: /archive
   - name: Tags
     url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+  - name: Style
+    url: /style
 
 # Pagination
 paginate: 5
