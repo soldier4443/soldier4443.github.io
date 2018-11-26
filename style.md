@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Full and Comprehensive Style Test(Korean ver.)"
+title: "Blog Style Guideline"
 ---
 
 이 글은 스타일을 모아둔 것입니다. 소스 코드를 확인하여 스타일을 적용하는 방법을 알아보세요.
