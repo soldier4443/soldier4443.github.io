@@ -9,6 +9,17 @@ tags: [android, gradle, build-automation]
 
 <br>
 
+## Prerequisites
+
+- JVM based language
+- Gradle
+
+  적어도 한 개 이상의 JVM 기반 언어(Java, Scala 등)를 다루어보셔야 이해가 수월하고, Gradle을 한 번이라도 사용해보셨다면 더 좋을거에요.
+
+  이 글에서는 여러분이 Gradle 빌드 시스템 기반의 안드로이드 개발자라고 가정하고 있습니다. 때문에 안드로이드 개발자라면 조금 더 이해가 빠를 수도 있지만, 꼭 안드로이드 개발을 하지 않더라도 이해하는데 무리가 없도록 작성하였습니다.
+
+<br>
+
 ## Introduction
 
 Gradle은 많은 분들이 아시다시피 빌드 과정을 자동화해주는 도구인데요,
