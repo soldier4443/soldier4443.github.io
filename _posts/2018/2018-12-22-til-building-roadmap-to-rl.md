@@ -62,6 +62,14 @@ Step 2는 정해진 기간은 없지만 어떤 방향으로 연구를 하면 좋
 
 연구는 해본적이 없어서 어떻게 해야할지 막막하지만, 서두를 필요는 없을 것 같습니다.
 
+### List of papers
+
+그래도 조금 조사를 해보니 큐레이션해놓은 분들이 꽤 많이 계시더라구요.
+
+- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - 2012년부터 2016년까지의 자료.
+- [awesome-rl](https://github.com/aikorea/awesome-rl) - RL 관련 자료.
+- [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) - 다양한 자료!
+
 <br>
 
 ## Reference
