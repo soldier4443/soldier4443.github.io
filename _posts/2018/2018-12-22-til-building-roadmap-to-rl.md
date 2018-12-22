@@ -51,7 +51,7 @@ Step 1은 약 3개월의 과정입니다. 딥러닝과 강화학습의 기초와
 
 여기까지 쓰고 딱 뇌 정지.. 분야를 모르니까 아무런 생각이 안들더구만요..
 
-아무래도 로드맵이라는 건 원래 간 사람들이 쓰는건가봅니다.
+아무래도 로드맵이라는 건 먼저 간 사람들이 쓰는건가봅니다.
 
 <br>
 
@@ -60,7 +60,7 @@ Step 1은 약 3개월의 과정입니다. 딥러닝과 강화학습의 기초와
 Step 2는 정해진 기간은 없지만 어떤 방향으로 연구를 하면 좋을지를 정하는 기간입니다.
 다량의 논문을 읽고 필드에 대한 지식을 쌓으면 조금씩 길이 보이겠죠..
 
-연구는 해본적이 없어서 어떻게 해야할지 막막하지만, 서두를 필요는 없을 것 같습니다.
+연구는 해본적이 없어서 어떻게 해야할지 막막하지만, 서두를 필요는 없겠죠?
 
 ### List of papers
 
@@ -72,7 +72,10 @@ Step 2는 정해진 기간은 없지만 어떤 방향으로 연구를 하면 좋
 
 <br>
 
-## Reference
+## Reference / Materials
 
-[Tensorflow KR 블로그](https://tensorflow.blog/tag/richard-s-sutton/)
-[Question on Quora](https://www.quora.com/What-is-a-good-introductory-book-on-reinforcement-learning-learning-for-a-sophisticated-reader)
+- [Tensorflow KR 블로그](https://tensorflow.blog/tag/richard-s-sutton/)
+- [Question on Quora](https://www.quora.com/What-is-a-good-introductory-book-on-reinforcement-learning-learning-for-a-sophisticated-reader)
+- [OpenAI](https://openai.com/research/)
+- [Deepmind Youtube](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
+- [Reinforcement Learning by David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
