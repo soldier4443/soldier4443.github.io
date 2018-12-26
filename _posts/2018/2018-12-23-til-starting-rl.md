@@ -2,6 +2,7 @@
 title: TIL - 20181223
 layout: post
 tags: [til]
+excerpt: none
 ---
 
 2018년 12월 23일.
