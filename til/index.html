@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Archive
-permalink: /archive/
+title: TIL
+permalink: /til/
 ---
 
 {% if site.posts.size == 0 %}
@@ -10,7 +10,7 @@ permalink: /archive/
 
 <ul class="archive">
   {% for post in site.posts %}
-    {% unless post.tags contains 'til' %}
+    {% if post.tags contains 'til' %}
       {% unless post.next %}
         <h2>{{ post.date | date: '%Y' }}</h2>
       {% else %}
@@ -31,6 +31,6 @@ permalink: /archive/
         </a>
         <time>{{ post.date | date: "%Y-%m-%d" }}</time>
       </li>
-    {% endunless %}
+    {% endif %}
   {% endfor %}
 </ul>
