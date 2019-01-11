@@ -1,5 +1,5 @@
 ---
-title: Liquid 템플릿 언어로 TIL 관리하기
+title: TIL와 포스트 분리해서 관리하기
 layout: post
 tags: [liquid, blog]
 excerpt: 늘어나는 TIL를 관리할 방법이 필요합니다.
